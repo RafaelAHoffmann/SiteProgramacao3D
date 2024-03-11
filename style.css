@@ -15,7 +15,7 @@ body{
     font-family: "Chakra Petch", sans-serif;
 }
 
-.conteudo-principa{
+.conteudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
