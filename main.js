@@ -19,4 +19,3 @@ const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2024-10-05T00:00:00");
 
 contadores[0].textContent = "contador";
-}
